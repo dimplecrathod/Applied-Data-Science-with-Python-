@@ -1,0 +1,16 @@
+Alberto Cairo’s work entitled “Reflections on the Challenges and Pitfalls of Evidence-Driven Visual Communication” presents three ways graphics can mislead the reader:
+
+1.Hiding relevant data 
+2.Displaying too much data to obscure reality: extreme and unnecessary detail, e.g. showing details that would be better explored with interactive tools, not on a printed page.
+3. Using graphic forms in inappropriate ways: distorting the data, e.g. truncate Y-axis, hide where X-axis begins, inconsistent intervals in one of the axis, etc.
+
+I have selected a visual found on reddit.com :https://www.reddit.com/r/dataisugly/comments/4xrk13/my_local_news_channel_doesnt_know_how_bar_graphs...
+
+This bar chart visual was used on a local news channel and the intended audience could be the local public.
+
+Components that are misleading and mechanisms used to mislead :
+1.Hiding relevant data or displays too much data.
+   This bar graph hides relevant data. There isn't a proper y-axis. 
+2.  Using graphic forms in inappropriate ways: distorting the data, e.g. truncate Y-axis, hide where X-axis begins, inconsistent intervals in one of the axis, etc. :
+The bar heights are represented incorrectly. The values that are supposed to be graphical represented using the bars haven't been represented properly. There isn't a correct correlation between bar heights and the figures stated on top of the bars. The bar heights are supposed to graphically represent those values.
+For eg: The 28% value is not represented along the y-axis.  The visual representation is actually quite the opposite of the actual data. The bar for 34% - the category 'Very' should be the tallest bar visually, but is relatively the smallest one.
